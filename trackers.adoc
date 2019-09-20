@@ -1,2 +1,13 @@
-
-
+udp://tracker.ex.ua:80/announce
+udp://62.212.85.66:2710/announce
+udp://51.254.244.161:6969/announce
+udp://37.19.5.155:2710/announce
+udp://195.123.209.37:1337/announce
+http://tracker1.wasabii.com.tw:6969/announce
+http://tracker.tiny-vps.com:6969/announce
+http://tracker.kuroy.me:5944/announce
+http://tracker.flashtorrents.org:6969/announce
+http://tracker.aletorrenty.pl:2710/announce
+http://t1.pow7.com/announce
+http://retracker.gorcomnet.ru/announce
+http://tracker.grepler.com:6969/announce
